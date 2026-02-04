@@ -1,0 +1,3 @@
+.venv/
+outbox.db
+__pycache__/
