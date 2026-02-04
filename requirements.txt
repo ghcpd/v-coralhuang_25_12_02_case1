@@ -1,0 +1,2 @@
+sqlalchemy[asyncio]==2.0.44
+aiosqlite==0.20.0
